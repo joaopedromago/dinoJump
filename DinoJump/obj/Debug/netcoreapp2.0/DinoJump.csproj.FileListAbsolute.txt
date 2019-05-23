@@ -1,0 +1,11 @@
+U:\projetos\DinoJump\DinoJump\bin\Debug\netcoreapp2.0\DinoJump.deps.json
+U:\projetos\DinoJump\DinoJump\bin\Debug\netcoreapp2.0\DinoJump.runtimeconfig.json
+U:\projetos\DinoJump\DinoJump\bin\Debug\netcoreapp2.0\DinoJump.runtimeconfig.dev.json
+U:\projetos\DinoJump\DinoJump\bin\Debug\netcoreapp2.0\DinoJump.dll
+U:\projetos\DinoJump\DinoJump\bin\Debug\netcoreapp2.0\DinoJump.pdb
+U:\projetos\DinoJump\DinoJump\obj\Debug\netcoreapp2.0\DinoJump.csprojResolveAssemblyReference.cache
+U:\projetos\DinoJump\DinoJump\obj\Debug\netcoreapp2.0\DinoJump.csproj.CoreCompileInputs.cache
+U:\projetos\DinoJump\DinoJump\obj\Debug\netcoreapp2.0\DinoJump.AssemblyInfoInputs.cache
+U:\projetos\DinoJump\DinoJump\obj\Debug\netcoreapp2.0\DinoJump.AssemblyInfo.cs
+U:\projetos\DinoJump\DinoJump\obj\Debug\netcoreapp2.0\DinoJump.dll
+U:\projetos\DinoJump\DinoJump\obj\Debug\netcoreapp2.0\DinoJump.pdb
